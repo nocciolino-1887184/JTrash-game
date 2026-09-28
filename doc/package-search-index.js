@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"JTrash","l":"controller"},{"m":"JTrash","l":"model"},{"m":"JTrash","l":"view"}];updateSearchResults();
